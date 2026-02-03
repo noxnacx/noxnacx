@@ -58,20 +58,26 @@
 
 ### 📊 สถิติการพัฒนา (GitHub Stats)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=noxnacx&show_icons=true&theme=radical" alt="noxnacx's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxnacx&layout=compact&theme=radical" alt="Top Languages" height="180" />
-</p>
-
 <div align="center">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=noxnacx&theme=radical" alt="GitHub Streak" />
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=noxnacx&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
+  height="170"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxnacx&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"
+  height="170"
+/>
+
+<br/><br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=noxnacx&theme=radical&hide_border=true"
+/>
+
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noxnacx&theme=radical" alt="GitHub Streak" />
-</div>
 
 ---
 <div align="center">
