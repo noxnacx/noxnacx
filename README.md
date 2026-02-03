@@ -2,52 +2,73 @@
   <h1>✨ Welcome to noxnacx's Space ✨</h1>
   <p><i>"Coding with passion, Building with purpose"</i></p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Game+Server+Developer;SAP+ABAP+Explorer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Laravel+%26+Vue.js+Developer;System+Architect;Open+Source+Enthusiast;POS+%26+Dashboard+Specialist" alt="Typing SVG" />
 </div>
 
 <hr />
 
 ### 👋 สวัสดีครับ! ผม noxnacx
 
-นักพัฒนาที่หลงใหลในการสร้างสรรค์ซอฟต์แวร์ที่มีคุณภาพ และชอบความท้าทายในการทำระบบ Emulator และ Enterprise System ปัจจุบันผมโฟกัสที่การสร้างประสบการณ์เกมที่ราบรื่นและการเรียนรู้ระบบ ERP ครับ
+ผมเป็นนักพัฒนาที่เชี่ยวชาญในการสร้าง **Web Application** และ **Management System** ตั้งแต่ระบบหลังบ้าน (Backend) ไปจนถึงหน้าจอผู้ใช้งาน (Frontend) ผมสนุกกับการเปลี่ยน Requirement ที่ซับซ้อนให้กลายเป็นระบบที่ใช้งานง่ายและมีประสิทธิภาพ
 
-### 🛠 เครื่องมือและทักษะที่ผมถนัด (Tech Stack)
+---
+
+### 🛠 Tech Stack & Tools
+จากการพัฒนาโปรเจกต์จริง ผมเลือกใช้เครื่องมือเหล่านี้เป็นหลัก:
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,go,js,ts,react,nodejs,docker,mysql,mongodb,git,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,docker,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,html,css,java&theme=dark" />
 </p>
 
-### 🚀 โปรเจกต์ที่น่าสนใจ (Featured Projects)
+---
 
-- **[Nostale Infinity](https://github.com/noxnacx)**: โปรเจกต์พัฒนา Private Server Emulator ที่มีความซับซ้อนสูง 
-  - 🛠 **Tech:** PHP (News System), Webhooks Integration, MySQL
-  - 💡 **Highlight:** ออกแบบระบบประกาศข่าวสารเชื่อมต่อกับ Discord และจัดการโครงสร้างเซิร์ฟเวอร์ด้วยตนเอง
-- **[Enterprise Knowledge Base]**: การศึกษาและพัฒนาในส่วนของ SAP ABAP
-  - 🛠 **Tech:** ABAP, SAP Systems
-  - 💡 **Highlight:** รวบรวมแนวคิดการเขียนโปรแกรมระดับ Enterprise และการเปรียบเทียบโครงสร้างภาษาระหว่าง ABAP, Golang และ PHP
+### 🚀 ผลงานเด่น (Featured Projects)
 
-### 🔭 สิ่งที่ผมกำลังทำอยู่
-- 🔭 ปัจจุบันผมกำลังพัฒนาโปรเจกต์เกี่ยวกับ **Game Emulator & Web Integration** (Nostale Infinity)
-- 🌱 กำลังเรียนรู้เพิ่มเติมในเรื่อง **SAP ABAP (Deep Level)** และ **Containerization (Docker)**
-- 💬 สอบถามผมได้เกี่ยวกับเรื่อง **PHP, Discord Webhooks และการจัดการ Database**
+#### 🛒 [POS Sabai System](https://github.com/noxnacx/pos-sabai)
+> **ระบบจัดการร้านอาหารและจุดขาย (Point of Sale)**
+> *เป็นโปรเจกต์ที่โชว์ศักยภาพ Full-stack ได้ดีที่สุดของคุณ*
+- 💡 **Features:** หน้าจอขาย (Touch Screen), ตัดสต็อก Real-time, ระบบส่งออเดอร์เข้าครัว, รายงานยอดขาย
+- 🛠 **Tech:** Laravel, Vue.js, Tailwind CSS, Pinia
 
-### ⚡ ความสามารถส่วนตัว (Skills & Abilities)
-- ✅ **System Architecture**: เข้าใจการทำงานของระบบหลังบ้านที่ต้องเชื่อมต่อกับ Client หลากหลายรูปแบบ
-- ✅ **Problem Solving**: เชี่ยวชาญการ Debug ปัญหาทางเทคนิคที่ซับซ้อน (เช่น การตั้งค่า Environment บน Docker/WSL2)
-- ✅ **Adaptability**: สามารถเรียนรู้ภาษาโปรแกรมใหม่ๆ ได้รวดเร็ว ตั้งแต่ Web Tech จนถึง Enterprise Language
+#### 🎮 [Nostale Infinity Web](https://github.com/noxnacx/nostale-website)
+> **เว็บไซต์หลักสำหรับ Game Server**
+- 💡 **Features:** ระบบจัดการสมาชิก, ข่าวสาร, และการเชื่อมต่อข้อมูลกับตัวเกม
+- 🛠 **Tech:** Laravel, MySQL
 
-### 📊 สถิติการพัฒนา (GitHub Stats)
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=noxnacx&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="noxnacx's GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxnacx&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
+#### 📊 [PEA Smart Dashboard](https://github.com/noxnacx/pea-smart-dashboard)
+> **ระบบ Dashboard แสดงผลข้อมูลองค์กร**
+- 💡 **Features:** การแสดงผลข้อมูล (Data Visualization) และการจัดการข้อมูลภายใน
+- 🛠 **Tech:** Laravel, Vue.js
+
+---
+
+### 📂 คลังผลงานทั้งหมด (All Repositories)
+
+| หมวดหมู่ (Category) | โปรเจกต์ (Project) | รายละเอียด (Description) | Stack |
+| :--- | :--- | :--- | :--- |
+| **🏢 Management System** | **[Meeting Room Booking](https://github.com/noxnacx/meeting-room-booking)** | ระบบจองห้องประชุมออนไลน์ | `Laravel` `Vue.js` |
+| | **[PEA Smart PM](https://github.com/noxnacx/pea-smart-pm)** | ระบบบริหารจัดการงานบำรุงรักษา | `Laravel` `Vue.js` |
+| | **[Chiracare](https://github.com/noxnacx/chiracare)** | เว็บแอปพลิเคชันสำหรับงานดูแลสุขภาพ | `Laravel` `Blade` |
+| **📱 Mobile & Edu** | **[QuizForStudy](https://github.com/noxnacx/QuizforStudy)** | แอปพลิเคชันรวมแบบฝึกหัดและการเรียนรู้ | `Dart` `Flutter` |
+| **🌐 Website** | **[Chiangrung Park](https://github.com/noxnacx/Chiangrung-park)** | เว็บไซต์ประชาสัมพันธ์สถานที่ท่องเที่ยว | `HTML` `CSS` |
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=noxnacx&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="noxnacx's GitHub stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxnacx&layout=compact&theme=radical&langs_count=6" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=noxnacx&theme=radical" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noxnacx&theme=dark" alt="GitHub Streak" />
-</div>
-
 ---
-📫 **ช่องทางติดต่อ:** nackkrus26@gmail.com
+<div align="center">
+  📫 **Contact Me:** nackkrus26@gmail.com
+</div>
