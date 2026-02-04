@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80">
   <h1>Hi there, I'm <a href="https://github.com/noxnacx" target="_blank">noxnacx</a>!</h1>
   <p><i><b>"Coding with passion, Building with purpose"</b></i></p>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73BC4&background=00000000&center=true&vCenter=true&width=435&lines=Laravel+%26+Vue.js+Developer;System+Architect;Open+Source+Enthusiast;POS+%26+Dashboard+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73BC4&background=00000000&center=true&vCenter=true&width=500&lines=Laravel+%26+Vue.js+Developer;System+Architect;Open+Source+Enthusiast;POS+%26+Dashboard+Specialist" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,7 +12,7 @@
 
 <h3>👋 เกี่ยวกับผม (About Me)</h3>
 <p>
-  ผมเป็นนักพัฒนาซอฟต์แวร์ที่เชี่ยวชาญในการสร้าง <b>Web Application</b> และ <b>Management System</b> ตั้งแต่ระบบหลังบ้าน (Backend) ไปจนถึงหน้าจอผู้ใช้งาน (Frontend) ผมสนุกกับการเปลี่ยน Requirement ที่ซับซ้อนให้กลายเป็นระบบที่ใช้งานง่าย มีประสิทธิภาพ และสเกลได้จริง
+  ผมเป็นนักพัฒนาซอฟต์แวร์ที่เชี่ยวชาญในการสร้าง <b>Web Application</b> และ <b>Management System</b> ตั้งแต่ระบบหลังบ้าน (Backend) ไปจนถึงหน้าจอผู้ใช้งาน (Frontend) ผมสนุกกับการเปลี่ยน Requirement ที่ซับซ้อนให้กลายเป็นระบบที่ใช้งานง่าย มีประสิทธิภาพ และใช้งานได้จริง
 </p>
 
 ---
@@ -82,10 +82,10 @@
 <h3>📊 สถิติการพัฒนา (GitHub Stats)</h3>
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=noxnacx&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=noxnacx&show_icons=true&theme=radical&hide_border=true" height="170" alt="stats graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxnacx&layout=compact&theme=radical&hide_border=true&langs_count=6" height="170" alt="languages graph" />
   </p>
-  <img src="https://streak-stats.demolab.com?user=noxnacx&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="git streak" />
+  <img src="https://streak-stats.demolab.com?user=noxnacx&theme=radical&hide_border=true" alt="git streak" />
 </div>
 
 ---
